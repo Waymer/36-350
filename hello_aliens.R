@@ -1,1 +1,1 @@
-print("Hello Aliens")
+cat("Hello Aliens /n How are you? Welcome to Earth! /n The dominant species here is Human. ")
