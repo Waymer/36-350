@@ -1,1 +1,1 @@
-cat(c("Hello Aliens", "How are you? Welcome to Earth!", "The dominant species here is us, Humans. I hope you understand English or this message wouldn't make any sense. Anyways, I hope to hear back from you!", "Love, ", "Humans"), sep = "\n")
+cat(c("Hello Aliens", "How are you? Welcome to Earth!", "The dominant species here is us, Humans. I hope you understand English or this message wouldn't make any sense. Anyways, if you exist, I hope to hear back from you! We've got a lot to catch up on. ", "Love, ", "Humans"), sep = "\n")
