@@ -1,1 +1,1 @@
-cat("Hello Aliens")
+print("Hello Aliens")
